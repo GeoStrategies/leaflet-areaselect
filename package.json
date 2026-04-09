@@ -1,0 +1,5 @@
+{
+  "name": "leaflet-areaselect",
+  "version": "1.0.0",
+  "main": "src/leaflet-areaselect.js",
+}
